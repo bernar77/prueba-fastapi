@@ -34,8 +34,7 @@ def root():
     return {"message": "Welcome to my API"}
 
 
-
-
+# https://fastapi-berna.herokuapp.com/
 
 
 
