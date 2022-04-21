@@ -31,7 +31,7 @@ app.include_router(vote.router)
 
 @app.get("/")
 def root():
-    return {"message": "Welcome to my API"}
+    return {"message": "Hello World - Welcome to my API"}
 
 
 # https://fastapi-berna.herokuapp.com/
